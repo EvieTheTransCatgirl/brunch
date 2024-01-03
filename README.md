@@ -48,7 +48,7 @@ Hardware support is highly dependent on the general Linux kernel hardware compat
 
 ❌ Unsupported Hardware:
 - Older Intel/AMD CPUs are not supported.
-- dGPUs are not supported.
+- dGPUs are not supported. (yet) 
 - Virtual Machines are not supported.
 - ARM CPUs are not supported.
 
